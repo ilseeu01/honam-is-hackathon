@@ -5,7 +5,7 @@
 	"author": "Creative Tim",
 	"license": "See license in https://www.creative-tim.com/license",
 	"description": "Material UI version of Vision UI Dashboard by Creative Tim",
-	"homepage": "https://demos.creative-tim.com/vision-ui-dashboard-react/#/dashboard",
+	"homepage": "https://ilseeu01.github.io/honam-is-hackerton",
 	"bugs": {
 		"url": "https://github.com/creativetimofficial/vision-ui-dashboard-react/issues"
 	},
@@ -45,13 +45,16 @@
 		"@testing-library/user-event": "12.1.10",
 		"cross-env": "^7.0.3",
 		"eslint": "^7.11.0",
+		"gh-pages": "^6.3.0",
 		"react-scripts": "5.0.1"
 	},
 	"scripts": {
 		"start": "react-scripts start",
-		"build": "cross-env PUBLIC_URL=/ react-scripts build",
+		"build": "cross-env PUBLIC_URL=/honam-is-hackerton react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
 		"install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start"
 	},
 	"eslintConfig": {
