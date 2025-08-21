@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/honam-is-hackerton/static/css/main.a3625b32.css",
-    "main.js": "/honam-is-hackerton/static/js/main.53d4e673.js",
+    "main.js": "/honam-is-hackerton/static/js/main.fec67069.js",
     "static/media/gaussian_heatmap_h264.mp4": "/honam-is-hackerton/static/media/gaussian_heatmap_h264.6901436bf6d52ff204dd.mp4",
-    "static/media/signUpImage.png": "/honam-is-hackerton/static/media/signUpImage.c40a27bbff0e613ecf60.png",
-    "static/media/signInImage.png": "/honam-is-hackerton/static/media/signInImage.127192f68887f98e12aa.png",
     "static/media/output1.mp4": "/honam-is-hackerton/static/media/output1.2e3c284f759395a6696e.mp4",
     "static/media/body-background.png": "/honam-is-hackerton/static/media/body-background.9e7d96f6af5373ca1771.png",
+    "static/media/main-logo.png": "/honam-is-hackerton/static/media/main-logo.751b1480533242daffca.png",
     "static/media/output3.mp4": "/honam-is-hackerton/static/media/output3.26c1e98d3da92fe5a398.mp4",
     "static/media/output2.mp4": "/honam-is-hackerton/static/media/output2.a7bcff12923fe52241a0.mp4",
     "static/media/avatar2.png": "/honam-is-hackerton/static/media/avatar2.b8132c3c3e173e102344.png",
@@ -28,10 +27,10 @@
     "static/media/green-lightning.svg": "/honam-is-hackerton/static/media/green-lightning.c20f110b7b466ab0409ebe815ace4c95.svg",
     "static/media/white-lightning.svg": "/honam-is-hackerton/static/media/white-lightning.4b30144a95d73615625d82776f129a8f.svg",
     "main.a3625b32.css.map": "/honam-is-hackerton/static/css/main.a3625b32.css.map",
-    "main.53d4e673.js.map": "/honam-is-hackerton/static/js/main.53d4e673.js.map"
+    "main.fec67069.js.map": "/honam-is-hackerton/static/js/main.fec67069.js.map"
   },
   "entrypoints": [
     "static/css/main.a3625b32.css",
-    "static/js/main.53d4e673.js"
+    "static/js/main.fec67069.js"
   ]
 }
