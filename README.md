@@ -6,6 +6,11 @@
 
 꼬꼬알리미는 AI 기반의 스마트 닭장 관리 시스템으로, 컴퓨터 비전 기술을 활용하여 닭의 건강 상태를 모니터링하고 농장주에게 실시간 알림을 제공합니다.
 
+## 🔗 링크
+
+- [라이브 데모](https://ilseeu01.github.io/honam-is-hackathon)
+- [GitHub 저장소](https://github.com/ilseeu01/honam-is-hackathon)
+
 ## 🚀 주요 기능
 
 - **실시간 닭 모니터링**: AI 컴퓨터 비전을 통한 닭 개체수 및 상태 추적
@@ -357,11 +362,6 @@ vision-dashboard-react-free/
 현재 다음 브라우저의 최신 2개 버전을 지원합니다:
 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64">
-
-## 🔗 링크
-
-- [라이브 데모](https://ilseeu01.github.io/honam-is-hackerton)
-- [GitHub 저장소](https://github.com/ilseeu01/honam-is-hackathon)
 
 ## 🤝 기여하기
 
